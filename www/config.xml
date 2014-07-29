@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.gutzytri.www" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>Gutzy Tri Mobile</name>
+    <name>Gutzy Tri</name>
     <description>Gutzy's Tri Harder</description>
     <author email="phil@rpmentr.com" href="http://www.gutzytri.com/team">Phil Montalbano</author>
 
